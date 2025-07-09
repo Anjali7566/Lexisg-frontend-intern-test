@@ -2,7 +2,7 @@
 # Lexisg Frontend Intern Test
 
 ## 🚀 Live Demo (Bonus)
-Hosted Link: [https://your-project-host.netlify.app](https://686e022a7b27ef2ef0386c50--sparkly-licorice-4ef791.netlify.app/)
+Hosted Link: [https://Lexi.ai.netlify.app](https://sparkly-licorice-4ef791.netlify.app/)
 
 ## 📸 Screenshot
 ![Screenshot](./Screenshot/Screenshot1.png)(./Screenshot/Screenshot2.png)
