@@ -2,7 +2,7 @@
 # Lexisg Frontend Intern Test
 
 ## 🚀 Live Demo (Bonus)
-Hosted Link: [https://your-project-host.vercel.app](https://your-project-host.vercel.app)
+Hosted Link: [(https://686e022a7b27ef2ef0386c50--sparkly-licorice-4ef791.netlify.app/)]
 
 ## 📸 Screenshot
 ![Screenshot](./screenshot.png)
