@@ -8,7 +8,7 @@ Hosted Link: [https://Lexi.ai.netlify.app](https://sparkly-licorice-4ef791.netli
 ![Screenshot](./Screenshot/Screenshot1.png)(./Screenshot/Screenshot2.png)
 
 ## 🎥 Screen Recording
-[Click here to view](https://your-screen-recording-link.com)
+[Click here to view](./Screenshot/Recording.mp4)
 
 ## 🛠️ How to Run the Project
 
