@@ -5,7 +5,7 @@
 Hosted Link: [https://your-project-host.netlify.app](https://686e022a7b27ef2ef0386c50--sparkly-licorice-4ef791.netlify.app/)
 
 ## 📸 Screenshot
-![Screenshot](./screenshot.png)
+![Screenshot](./Screenshot/Screenshot1.png)
 
 ## 🎥 Screen Recording
 [Click here to view](https://your-screen-recording-link.com)
