@@ -33,20 +33,24 @@ const App = () => {
   };
 
   return (
-    <div className="min-h-screen bg-gray-50 p-4 flex flex-col items-center">
-      <div className="w-full max-w-2xl bg-white shadow rounded p-6">
-        <h1 className="text-xl font-semibold mb-4 text-center">Lexi Legal Assistant</h1>
-        <div className="space-y-4 mb-4">
+    <div className="min-h-screen bg-gradient-to-br from-purple-100 via-blue-100 to-pink-100 p-6 flex items-center justify-center">
+      <div className="w-full max-w-3xl bg-white/80 backdrop-blur-lg rounded-2xl shadow-xl p-6 border border-gray-200">
+        <h1 className="text-3xl font-bold text-center text-gray-800 mb-6">Lexi Legal Assistant</h1>
+
+        <div className="space-y-4 max-h-[60vh] overflow-y-auto pr-2">
           {chatHistory.map((msg, idx) => (
             <ChatBubble key={idx} {...msg} onCitationClick={openCitation} />
           ))}
         </div>
-        <ChatInput
-          input={input}
-          setInput={setInput}
-          loading={loading}
-          onSubmit={handleSubmit}
-        />
+
+        <div className="mt-6">
+          <ChatInput
+            input={input}
+            setInput={setInput}
+            loading={loading}
+            onSubmit={handleSubmit}
+          />
+        </div>
       </div>
 
       {pdfModal.visible && (
