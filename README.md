@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,26 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+
+
+
+# Lexisg Frontend Intern Test
+
+## 🚀 Live Demo (Bonus)
+Hosted Link: [https://your-project-host.vercel.app](https://your-project-host.vercel.app)
+
+## 📸 Screenshot
+![Screenshot](./screenshot.png)
+
+## 🎥 Screen Recording
+[Click here to view](https://your-screen-recording-link.com)
+
+## 🛠️ How to Run the Project
+
+```bash
+git clone https://github.com/yourusername/Lexisg-frontend-intern-test.git
+cd Lexisg-frontend-intern-test
+npm install
+npm start
+>>>>>>> 2e95d0e29a3b1904cadb2a1e39268acf14371773
